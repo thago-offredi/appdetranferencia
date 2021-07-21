@@ -1,0 +1,16 @@
+C:\Users\Administrador\bank\transf.bank\bin\Debug\net5.0\transf.bank.exe
+C:\Users\Administrador\bank\transf.bank\bin\Debug\net5.0\transf.bank.deps.json
+C:\Users\Administrador\bank\transf.bank\bin\Debug\net5.0\transf.bank.runtimeconfig.json
+C:\Users\Administrador\bank\transf.bank\bin\Debug\net5.0\transf.bank.runtimeconfig.dev.json
+C:\Users\Administrador\bank\transf.bank\bin\Debug\net5.0\transf.bank.dll
+C:\Users\Administrador\bank\transf.bank\bin\Debug\net5.0\ref\transf.bank.dll
+C:\Users\Administrador\bank\transf.bank\bin\Debug\net5.0\transf.bank.pdb
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\transf.bank.csproj.AssemblyReference.cache
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\transf.bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\transf.bank.AssemblyInfoInputs.cache
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\transf.bank.AssemblyInfo.cs
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\transf.bank.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\transf.bank.dll
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\ref\transf.bank.dll
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\transf.bank.pdb
+C:\Users\Administrador\bank\transf.bank\obj\Debug\net5.0\transf.bank.genruntimeconfig.cache
